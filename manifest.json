@@ -1,0 +1,10 @@
+{
+    "id": "link-loom",
+    "name":"LinkLoom",
+    "version": "0.1.0",
+    "description": "Your daily real-life social networks manager. Connect, Create, Conquer!",
+    "main":"dist/main.js",
+    "minAppVersion":"0.15.0",
+    "author":"AsterLite"
+
+    }
